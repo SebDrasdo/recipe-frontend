@@ -1,3 +1,5 @@
+[![CI](https://github.com/SebDrasdo/recipe-frontend/actions/workflows/ci.yml/badge.svg)](https://github.com/SebDrasdo/recipe-frontend/actions/workflows/ci.yml)
+
 # recipe-frontend
 
 ## Project setup
